@@ -3,7 +3,7 @@ Flask application with sqlite database to analyse cost and revenue metrics as a 
 
 after downloading all files and folders, activate the virtual environment
 ```
-source venv/bin/activate</textarea>
+source venv/bin/activate
 ```
 
 to run the application locally
